@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Prabhat1137/my-balloon-project.git/static/css/main.95e6cc5b.css",
-    "main.js": "/Prabhat1137/my-balloon-project.git/static/js/main.be275255.js",
-    "static/js/787.55f4e1da.chunk.js": "/Prabhat1137/my-balloon-project.git/static/js/787.55f4e1da.chunk.js",
-    "static/media/bg.avif": "/Prabhat1137/my-balloon-project.git/static/media/bg.a019be83efb05561065e.avif",
-    "static/media/bl.jpg": "/Prabhat1137/my-balloon-project.git/static/media/bl.757a34889df08103152b.jpg",
-    "index.html": "/Prabhat1137/my-balloon-project.git/index.html",
-    "main.95e6cc5b.css.map": "/Prabhat1137/my-balloon-project.git/static/css/main.95e6cc5b.css.map",
-    "main.be275255.js.map": "/Prabhat1137/my-balloon-project.git/static/js/main.be275255.js.map",
-    "787.55f4e1da.chunk.js.map": "/Prabhat1137/my-balloon-project.git/static/js/787.55f4e1da.chunk.js.map"
+    "main.css": "/my-balloon-project/static/css/main.cdc3e446.css",
+    "main.js": "/my-balloon-project/static/js/main.c42737d0.js",
+    "static/js/787.55f4e1da.chunk.js": "/my-balloon-project/static/js/787.55f4e1da.chunk.js",
+    "static/media/bg.avif": "/my-balloon-project/static/media/bg.a019be83efb05561065e.avif",
+    "static/media/bl.jpg": "/my-balloon-project/static/media/bl.757a34889df08103152b.jpg",
+    "index.html": "/my-balloon-project/index.html",
+    "main.cdc3e446.css.map": "/my-balloon-project/static/css/main.cdc3e446.css.map",
+    "main.c42737d0.js.map": "/my-balloon-project/static/js/main.c42737d0.js.map",
+    "787.55f4e1da.chunk.js.map": "/my-balloon-project/static/js/787.55f4e1da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95e6cc5b.css",
-    "static/js/main.be275255.js"
+    "static/css/main.cdc3e446.css",
+    "static/js/main.c42737d0.js"
   ]
 }
