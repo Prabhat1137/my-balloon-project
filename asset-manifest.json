@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Prabhat1137/my-balloon-project.git/static/css/main.95e6cc5b.css",
+    "main.js": "/Prabhat1137/my-balloon-project.git/static/js/main.be275255.js",
+    "static/js/787.55f4e1da.chunk.js": "/Prabhat1137/my-balloon-project.git/static/js/787.55f4e1da.chunk.js",
+    "static/media/bg.avif": "/Prabhat1137/my-balloon-project.git/static/media/bg.a019be83efb05561065e.avif",
+    "static/media/bl.jpg": "/Prabhat1137/my-balloon-project.git/static/media/bl.757a34889df08103152b.jpg",
+    "index.html": "/Prabhat1137/my-balloon-project.git/index.html",
+    "main.95e6cc5b.css.map": "/Prabhat1137/my-balloon-project.git/static/css/main.95e6cc5b.css.map",
+    "main.be275255.js.map": "/Prabhat1137/my-balloon-project.git/static/js/main.be275255.js.map",
+    "787.55f4e1da.chunk.js.map": "/Prabhat1137/my-balloon-project.git/static/js/787.55f4e1da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95e6cc5b.css",
+    "static/js/main.be275255.js"
+  ]
+}
